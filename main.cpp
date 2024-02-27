@@ -10,11 +10,9 @@ int main() {
         mov ax, A1
         add ax, B1
         mov C1, ax
-
         mov ax, A2
         add ax, B2
         mov C2, ax
-
         mov ax, A3
         add ax, B3
         mov C3, ax
